@@ -1,3 +1,4 @@
+# ŠE V TEKU IZDELAVE!
 i = int(input('Vpisi stevilo: '))
 stevec = 2
 true = 0
